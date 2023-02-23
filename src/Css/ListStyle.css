@@ -1,0 +1,23 @@
+:root{
+    --maincolor: #df7020;
+}
+header{
+    background-color: var(--maincolor);
+    height: 28px;
+}
+
+.listItem{
+    margin-left: 2%;
+    margin-top: 2%;
+    padding-left: 1px;
+    padding-top: 1px;
+    text-decoration: none;
+    color: white;
+    font-size: .9rem;
+    font-family: 'Poppins', sans-serif;   
+}
+.activeItem{
+    color: black;
+    border-bottom: .1em double black;
+}
+

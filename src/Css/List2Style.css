@@ -3,7 +3,13 @@
 }
 header{
     background-color: var(--maincolor);
-    height: 28px;
+    height: 50px;
+    line-height: 50px;
+}
+
+.list2:hover:hover{
+    background-color: aqua;
+
 }
 
 .listItem{

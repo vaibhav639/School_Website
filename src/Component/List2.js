@@ -1,12 +1,12 @@
 import React from 'react';
 import { NavLink } from 'react-router-dom';
-import '../Css/ListStyle.css';
+import '../Css/List2Style.css';
 
 const List2=()=>{
     return(
       <div>
         <header>
-          <div classname = "container ">
+          <div classname = "container">
             <nav>
               <div classname = "list2">
                 <NavLink to= "/" className="listItem" activeClassname="activeItem">Home</NavLink>

@@ -1,0 +1,26 @@
+.main-footer{
+    color: white;
+    background-color: #df7020;
+    padding-top: 3em;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    height:270px;
+}
+.container{
+    display: flex;
+    flex-direction: row;
+}
+.l1{
+    
+   float: left;
+   width: 403px;
+   position: relative;
+   left: 7%;
+   list-style: none;
+}
+.list-unstyled{
+    list-style: none;
+    position: relative;
+    padding-top: 6px;
+}

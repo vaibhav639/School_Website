@@ -18,24 +18,28 @@ import Footer from './Component/Footer';
 
 const App = () => {
   return(
-    <>
-    <TopList/>
-    <div />
-    <List2/>
-    <Routes>
-      <Route exact path="/" element = {<Home/>}></Route>
-      <Route path="/about" element = {<About/>}></Route>
-      <Route path="/facilities" element = {<Facilities/>}></Route>
-      <Route path="/admissions" element = {<Admissions/>}></Route>
-      <Route path="/gallery" element = {<Gallery/>}></Route>
-      <Route path="/other" element = {<Other/>}></Route>
-      <Route path="/career" element = {<Career/>}></Route>
-      <Route path="/contact" element = {<Contact/>}></Route>
-      <Route path="/alumniregistration" element = {<AlumniRegistration/>}></Route>
-      <Route element = {<Error/>}></Route>
-    </Routes>
-    <Footer/>
-    </>
+    <div className="page-container">
+    <div className="content-wrap">
+     <>
+     <TopList/>
+     <div />
+     <List2/>
+     <Routes>
+       <Route exact path="/" element = {<Home/>}></Route>
+       <Route path="/about" element = {<About/>}></Route>
+       <Route path="/facilities" element = {<Facilities/>}></Route>
+       <Route path="/admissions" element = {<Admissions/>}></Route>
+       <Route path="/gallery" element = {<Gallery/>}></Route>
+       <Route path="/other" element = {<Other/>}></Route>
+       <Route path="/career" element = {<Career/>}></Route>
+       <Route path="/contact" element = {<Contact/>}></Route>
+       <Route path="/alumniregistration" element = {<AlumniRegistration/>}></Route>
+       <Route element = {<Error/>}></Route>
+     </Routes>
+     <Footer/>
+     </>
+    </div>
+    </div>
   )
 }
 export default App;

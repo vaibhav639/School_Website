@@ -63,7 +63,7 @@ const Home = () => {
             <div className="imageGallery">
               <div className="ig1">
                 <a href="ind1.jpeg">
-                  <img src={ind1} alt="image 1" width={180} height={150} />
+                  <img src={ind1} alt="image 1" width={180} height={150}/>
                 </a>
                 <div className="content">
                   <b>INDEPENDENCE DAY</b>
@@ -71,7 +71,7 @@ const Home = () => {
               </div>
               <div className="ig1">
                 <a href="ind2.jpeg">
-                  <img src={ind2} alt="image 2" width={180} height={150} />
+                  <img src={ind2} alt="image 2" width={180} height={150}/>
                 </a>
                 <div className="content">
                   <b>SPORTS</b>
@@ -79,7 +79,7 @@ const Home = () => {
               </div>
               <div className="ig1">
                 <a href="ind3.jpeg">
-                  <img src={ind3} alt="image 3" width={180} height={150} />
+                  <img src={ind3} alt="image 3" width={180} height={150}/>
                 </a>
                 <div className="content">
                   <b>REPUBLIC DAY</b>

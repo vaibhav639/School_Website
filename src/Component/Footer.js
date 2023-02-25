@@ -13,7 +13,8 @@ const Footer = () => {
               <li className="footerlist">
                 <ul className="l1">
                   <div className="col">
-                    <h4>CONTACT DETAIL</h4>
+                    <h3>CONTACT DETAIL</h3>
+                    <br/>
                     <ul className="list-unstyled">
                       <li> Priyanka Modern Sr. Sec. Schoool</li>
                       <li>Naurangabad, Dhampur,</li>
@@ -29,7 +30,8 @@ const Footer = () => {
                 {/*column2*/}
                 <ul className="l1">
                   <div className="col">
-                    <h4>MEDICAL INSTITUTE</h4>
+                    <h3>MEDICAL INSTITUTE</h3>
+                    <br/>
                     <ul className="list-unstyled">
                       <li>Priyanka College Of Medical Science And</li>
                       <li>Research Centre, Dhampur</li>
@@ -44,7 +46,8 @@ const Footer = () => {
                 {/*column3*/}
                 <ul className="l1">
                   <div className="col">
-                    <h4>BTC INSTITUTE</h4>
+                    <h3>BTC INSTITUTE</h3>
+                    <br/>
                     <ul className=" list-unstyled">
                       <li>Priyanka College Of Professional</li>
                       <li>Education, Dhampur</li>

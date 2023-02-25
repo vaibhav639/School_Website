@@ -33,15 +33,15 @@ const Home = () => {
               <hr/>
               <p>Paragraph 4</p>
               <hr/>
-              <p>Paragraph 4</p>
+              <p>Paragraph 5</p>
               <hr/>
-              <p>Paragraph 4</p>
+              <p>Paragraph 6</p>
               <hr/>
-              <p>Paragraph 4</p>
+              <p>Paragraph 7</p>
               <hr/>
-              <p>Paragraph 4</p>
+              <p>Paragraph 8</p>
               <hr/>
-              <p>Paragraph 4</p>
+              <p>Paragraph 9</p>
               <hr/>
             </div>
             <p className="paraStyle">
@@ -116,9 +116,21 @@ const Home = () => {
           </div>
         </div>
         <div className="container3">
-          <div className="ig6"><h3>FOLLOW US ON FACEBOOK</h3></div>
-            <div className="ig7"><h3>FOLLOW US ON INSTAGRAM</h3></div>
-            <div className="ig8"><h3>FOLLOW US ON YOUTUBE</h3></div>
+          <div className="ig6">
+            <h3>FOLLOW US ON FACEBOOK</h3>
+            <br/>
+            
+          </div>
+            <div className="ig7">
+              <h3>FOLLOW US ON INSTAGRAM</h3>
+              <br/>
+              
+            </div>
+            <div className="ig8">
+              <h3>FOLLOW US ON YOUTUBE</h3>
+              <br/>
+              <iframe width="300" height="290" src="https://www.youtube.com/embed/jLjoWua8Vpw" title="Investiture Ceremony Of Priyanka Modern School, Dhampur" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+            </div>
           </div>
       </div>
     </>

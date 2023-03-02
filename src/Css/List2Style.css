@@ -27,3 +27,8 @@ header{
     border-bottom: .1em double black;
 }
 
+.list2{
+    position: relative;
+    left: 100px;
+}
+

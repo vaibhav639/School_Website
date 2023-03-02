@@ -1,0 +1,190 @@
+.topheader{
+    
+    background-color: black;
+    width: 100%;
+    height:26px;
+    line-height: 26px;
+    
+}
+
+.tr1{
+    width: 40%;
+    position: relative;
+    left: 40%;
+    color:#cdcdb1;
+    font-size: large;
+    
+}
+
+.td2{
+    width: 40%;
+    position: relative;
+    right: 15%;
+    color: #cdcdb1;
+}
+
+.logotable2{
+    
+    background-color: white;
+    padding-top: 3em;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    height:5px;
+    
+}
+
+:root{
+    --mainColor: white;
+}
+
+.header2{
+    background-color: var(--mainColor);
+}
+
+.mycontainer{
+    width: 100%;
+    background-color: white;
+    margin: 0 auto;
+    max-width: 1200px;
+}
+
+.mycontainer-flex{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo2{
+    position: relative;
+    left: 70%;
+    width: 90px;
+    height: 85px;
+    margin-top:2%;
+    padding: .2em 0;
+    align-items:flex-start;
+}
+
+.Item1{
+    margin-left: 2em;
+    color: #e60000;
+    text-decoration: none;
+    font-size: 1.1rem;
+    position: relative;
+    right: 70%;
+}
+
+.Item2{
+    margin-left: 2em;
+    color: #e60000;
+    text-decoration: none;
+    font-size: 1.1rem;
+    position: relative;
+    right: 69%;
+}
+
+.myactiveItem{
+    color: #e60000 ;
+    border-bottom: .1em double #fff;
+}
+
+.myheader3{
+    width: 100%;
+    background-color:#ff0000;
+    color: white;
+    margin: 0 auto;
+    height: 60px;
+    line-height: 60px;
+    text-align: center; 
+}
+
+.myformcontainer{
+    width: 90%;
+    height: 300px;
+    position: relative;
+    left: 5%;
+}
+
+.label1{
+    float: left;
+    width: 30%;
+    font: bold;
+    position: relative;
+    left: 9%;
+}
+
+.myitem1{
+    float: left;
+    position: relative;
+    left: 3%;
+}
+
+
+.mybutton{
+    position: relative;
+    left: 20%;
+    border-radius: 12px;
+}
+
+.myheader4{
+    width: 100%;
+    background-color: #ccccb3;
+    color: #ff4d4d;
+    margin: 0 auto;
+    height: 60px;
+    line-height: 60px;
+    text-align: center; 
+}
+
+.loginArea{
+    position: relative;
+    left: 35%;
+    color: #ff4d4d;
+}
+
+.myformcontainer1{
+    width: 50%;
+    height: 300px;
+    position: relative;
+    left: 15%;
+}
+
+
+.myformItem{
+    float: left;
+    position: relative;
+    left: 40%;
+    width: 50%;
+    height: 27px;
+    line-height: 27px;
+}
+
+.myformItem1{
+    float: left;
+    position: relative;
+    left: 40%;
+    width: 24%;
+    height: 27px;
+    line-height: 27px;
+    background-color: #51e716;
+    
+}
+
+.myformItem2{
+    float: left;
+    position: relative;
+    left: 42%;
+    width: 24%;
+    height: 27px;
+    line-height: 27px;
+    background-color: #ff0015;
+}
+
+.RegNewAlumni{
+    float: left;
+    position: relative;
+    left: 40%;
+}
+
+
+

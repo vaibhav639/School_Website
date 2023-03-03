@@ -40,7 +40,7 @@ const Login = () => {
       </header2>
 
       <div className="myheader4">
-        <h1>Registration Login</h1>
+        <h3>Registration Login</h3>
       </div>
 
       <br />
@@ -78,8 +78,8 @@ const Login = () => {
           <br/>
           <br/>
 
-          <button className="myformItem1">LOGIN</button>
-          <button className="myformItem2">FORGOT</button>
+          <button className="loginButton">LOGIN</button>
+          <button className="forgotButton">FORGET</button>
 
           <br/>
           <br/>

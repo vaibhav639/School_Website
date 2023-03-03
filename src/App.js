@@ -16,6 +16,8 @@ import Footer from "./Component/Footer";
 import NewAlumni from "./Component/NewAlumni";
 import Login from "./Component/Login";
 
+
+
 const App = () => {
   return (
     <div className="page-container">
@@ -37,7 +39,7 @@ const App = () => {
             <Route element={<Error />}></Route>
           </Routes>
           <Routes>
-           <Route exact path="/NewAlumni" element={<NewAlumni />}></Route>
+           <Route exact path="/" element={<NewAlumni />}></Route>
            <Route path="/Login" element={<Login />}></Route>
           </Routes>
           <Footer />

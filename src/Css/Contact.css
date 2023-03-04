@@ -1,0 +1,52 @@
+.contactContent{
+    width: 90%;
+    height: 640px;
+    position: relative;
+    left: 8%;
+}
+
+.mycontainer{
+    display: flex;
+    flex-direction: row;
+}
+
+.list1{
+   float: left;
+   width: 403px;
+   position: relative;
+   left: 1%;
+   list-style: none;
+}
+
+.list-styled{
+    list-style: none;
+    position: relative;
+    padding-top: 6px;
+}
+
+.formItem2{
+    width: 31%;
+    height: 30px;
+    margin: 2px;
+    line-height: 27px;
+    background-color:  #ebebe0;
+    font-size: small;
+}   
+
+.formItem3{
+    width: 61%;
+    height: 130px;
+    margin: 2px;
+    background-color:  #ebebe0;
+    font-size: small;
+} 
+
+.mySubmitButton{
+    
+    width: 9%;
+    height: 32px;
+    line-height: 27px;
+    background-color: #002b80;
+    color: white;
+
+}

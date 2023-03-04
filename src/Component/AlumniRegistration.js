@@ -1,11 +1,7 @@
 import React from "react";
-
 import "../Css/AlumniReg.css";
 import logo2 from "../Images/logo2.png";
-
-
 import { NavLink } from "react-router-dom";
-
 
 const AlumniRegistration = () => {
   return (
@@ -205,8 +201,9 @@ const AlumniRegistration = () => {
     <br/>
     <br/>
     <br/>
-
   </div>
+
+
    
   );
 };

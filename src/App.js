@@ -39,8 +39,8 @@ const App = () => {
             <Route element={<Error />}></Route>
           </Routes>
           <Routes>
-           <Route exact path="/" element={<NewAlumni />}></Route>
-           <Route path="/Login" element={<Login />}></Route>
+               <Route exact path="/" element={<NewAlumni />}></Route>
+               <Route path="/Login" element={<Login />}></Route>
           </Routes>
           <Footer />
         </>

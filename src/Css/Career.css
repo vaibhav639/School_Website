@@ -1,0 +1,56 @@
+.careerContent{
+    width: 90%;
+    height: 640px;
+    position: relative;
+    left: 5%;
+}
+.formItem{
+    width: 31%;
+    height: 30px;
+    margin: 4px;
+    line-height: 27px;
+    background-color:  #ebebe0;
+    font-size: small;
+}   
+
+.mydiv{
+    
+    font: bold;
+
+}
+.chooseButton{
+    float: left;
+    position: relative;
+    left: 2%;
+}
+
+.myP1{
+    float: left;
+    position: relative;
+    left : .1%;
+}
+
+.myp2{
+    float: left;
+    position: relative;
+    left: 2.4%;
+}
+
+.formItem1{
+    width: 61%;
+    height: 130px;
+    margin: 4px;
+    background-color:  #ebebe0;
+    font-size: small;
+} 
+.submitButton{
+    
+    width: 9%;
+    height: 32px;
+    line-height: 27px;
+    background-color: #002b80;
+    color: white;
+
+}
+
+
